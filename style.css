@@ -322,6 +322,66 @@ nav{
         background-color: hsl(9, 84%, 63%);
     }
     }
+    @media only screen and (min-width:360px) and (max-width:760px){
+        .b-card1{
+            margin-top: -59%;
+            font-size: 15px;
+            font-weight: 500;
+            position: absolute;
+            margin-left: 1%;
+            color: #ffffff;
+            width: 20%;
+            height: 30px;
+            border: none;
+            border-radius: 8px;
+            background-color: hsl(9, 84%, 63%);
+        }
+        }
+        @media only screen and (min-width:375px) and (max-width:812px){
+            .b-card1{
+                margin-top: -57%;
+                font-size: 15px;
+                font-weight: 500;
+                position: absolute;
+                margin-left: 1%;
+                color: #ffffff;
+                width: 20%;
+                height: 30px;
+                border: none;
+                border-radius: 8px;
+                background-color: hsl(9, 84%, 63%);
+            }
+            }
+        @media only screen and (min-width:384px) and (max-width:854px){
+            .b-card1{
+                margin-top: -57%;
+                font-size: 15px;
+                font-weight: 500;
+                position: absolute;
+                margin-left: 1%;
+                color: #ffffff;
+                width: 20%;
+                height: 30px;
+                border: none;
+                border-radius: 8px;
+                background-color: hsl(9, 84%, 63%);
+            }
+            }
+    @media only screen and (min-width:412px) and (max-width:915px){
+        .b-card1{
+            margin-top: -47%;
+            font-size: 15px;
+            font-weight: 500;
+            position: absolute;
+            margin-left: 1%;
+            color: #ffffff;
+            width: 20%;
+            height: 30px;
+            border: none;
+            border-radius: 8px;
+            background-color: hsl(9, 84%, 63%);
+        }
+        }
     @media only screen and (min-width:700px) and (max-width:1100px){
         .b-card1{
             margin-top: -29.5%;
@@ -357,6 +417,50 @@ nav{
         margin-top: -12%;
     }
     }
+    @media only screen and (min-width:360px) and (max-width:760px){
+        .price1{
+            display: table;
+            font-size: 38px;
+            color: #ffffff;
+            margin-left: 175px;
+            font-weight: 700;
+            position: absolute;
+            margin-top: -15%;
+        }
+        }
+        @media only screen and (min-width:375px) and (max-width:812px){
+            .price1{
+                display: table;
+                font-size: 38px;
+                color: #ffffff;
+                margin-left: 190px;
+                font-weight: 700;
+                position: absolute;
+                margin-top: -15%;
+            }
+            }
+        @media only screen and (min-width:384px) and (max-width:854px){
+            .price1{
+                display: table;
+                font-size: 38px;
+                color: #ffffff;
+                margin-left: 195px;
+                font-weight: 700;
+                position: absolute;
+                margin-top: -15%;
+            }
+            }
+    @media only screen and (min-width:412px) and (max-width:915px){
+        .price1{
+            display: table;
+            font-size: 38px;
+            color: #ffffff;
+            margin-left: 220px;
+            font-weight: 700;
+            position: absolute;
+            margin-top: -12.5%;
+        }
+        }
     @media only screen and (min-width:700px) and (max-width:1100px){
         .price1{
             display: table;
@@ -422,6 +526,67 @@ nav{
         background-color: hsl(9, 84%, 63%);
     }
     }
+
+    @media only screen and (min-width:360px) and (max-width:760px){
+        .b-card2{
+            margin-top: -59%;
+            font-size: 15px;
+            font-weight: 500;
+            position: absolute;
+            margin-left: 1%;
+            color: #ffffff;
+            width: 20%;
+            height: 30px;
+            border: none;
+            border-radius: 8px;
+            background-color: hsl(9, 84%, 63%);
+        }
+        }
+        @media only screen and (min-width:375px) and (max-width:812px){
+            .b-card2{
+                margin-top: -52%;
+                font-size: 15px;
+                font-weight: 500;
+                position: absolute;
+                margin-left: 1%;
+                color: #ffffff;
+                width: 20%;
+                height: 30px;
+                border: none;
+                border-radius: 8px;
+                background-color: hsl(9, 84%, 63%);
+            }
+            }
+        @media only screen and (min-width:384px) and (max-width:854px){
+            .b-card2{
+                margin-top: -52%;
+                font-size: 15px;
+                font-weight: 500;
+                position: absolute;
+                margin-left: 1%;
+                color: #ffffff;
+                width: 20%;
+                height: 30px;
+                border: none;
+                border-radius: 8px;
+                background-color: hsl(9, 84%, 63%);
+            }
+            }
+        @media only screen and (min-width:412px) and (max-width:915px){
+            .b-card2{
+                margin-top: -48%;
+                font-size: 15px;
+                font-weight: 500;
+                position: absolute;
+                margin-left: 1%;
+                color: #ffffff;
+                width: 20%;
+                height: 30px;
+                border: none;
+                border-radius: 8px;
+                background-color: hsl(9, 84%, 63%);
+            }
+            }
     @media only screen and (min-width:700px) and (max-width:1100px){
         .b-card2{
             margin-top: -27%;
@@ -492,6 +657,66 @@ nav{
         background-color: hsl(9, 84%, 63%);
     }
     }
+    @media only screen and (min-width:360px) and (max-width:760px){
+        .b-card3{
+            margin-top: -54%;
+            font-size: 15px;
+            font-weight: 500;
+            position: absolute;
+            margin-left: 1%;
+            color: #ffffff;
+            width: 20%;
+            height: 30px;
+            border: none;
+            border-radius: 8px;
+            background-color: hsl(9, 84%, 63%);
+        }
+        }
+        @media only screen and (min-width:375px) and (max-width:812px){
+            .b-card3{
+                margin-top: -53%;
+                font-size: 15px;
+                font-weight: 500;
+                position: absolute;
+                margin-left: 1%;
+                color: #ffffff;
+                width: 20%;
+                height: 30px;
+                border: none;
+                border-radius: 8px;
+                background-color: hsl(9, 84%, 63%);
+            }
+            }
+        @media only screen and (min-width:384px) and (max-width:854px){
+            .b-card3{
+                margin-top: -52%;
+                font-size: 15px;
+                font-weight: 500;
+                position: absolute;
+                margin-left: 1%;
+                color: #ffffff;
+                width: 20%;
+                height: 30px;
+                border: none;
+                border-radius: 8px;
+                background-color: hsl(9, 84%, 63%);
+            }
+            }
+    @media only screen and (min-width:412px) and (max-width:915px){
+        .b-card3{
+            margin-top: -43%;
+            font-size: 15px;
+            font-weight: 500;
+            position: absolute;
+            margin-left: 1%;
+            color: #ffffff;
+            width: 20%;
+            height: 30px;
+            border: none;
+            border-radius: 8px;
+            background-color: hsl(9, 84%, 63%);
+        }
+        }
     @media only screen and (min-width:700px) and (max-width:1100px){
         .b-card3{
             margin-top: -27%;
@@ -560,6 +785,22 @@ nav{
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
     }
+    @media only screen and (min-width:375px) and (max-width:812px){
+        .b-Visualizzatutto{
+            margin-top: 6%;
+            margin-bottom: 4%;
+            margin-left: 25%;
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: 700;
+            width: 50%;
+            padding: 2%;
+            border: none;
+            border-radius: 5px;
+            background-color: hsl(9, 84%, 63%);
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+        }
 
                                           /* <!-- //cards3// --> */
 
@@ -617,6 +858,38 @@ nav{
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
     }
+    @media only screen and (min-width:375px) and (max-width:812px){
+        .b-Visualizzaa{
+            margin-top: 6%;
+            margin-bottom: 4%;
+            margin-left: 25%;
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: 700;
+            width: 50%;
+            padding: 2%;
+            border: none;
+            border-radius: 5px;
+            background-color: hsl(9, 84%, 63%);
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+        }
+    @media only screen and (min-width:384px) and (max-width:854px){
+        .b-Visualizzaa{
+            margin-top: 6%;
+            margin-bottom: 4%;
+            margin-left: 25%;
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: 700;
+            width: 50%;
+            padding: 2%;
+            border: none;
+            border-radius: 5px;
+            background-color: hsl(9, 84%, 63%);
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+        }
     @media only screen and (min-width:700px) and (max-width:1100px){
         .b-Visualizzaa{
             margin-top: 3%;
@@ -1529,6 +1802,21 @@ height: 100%;
         margin-bottom: 5.7%;
     }
     }
+    @media only screen and (min-width:84px) and (max-width:854px){
+        .bVisualizza2{
+            margin-top: 5%;
+            margin-left: 25%;
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: 700;
+            width: 50%;
+            padding: 2%;
+            border: none;
+            border-radius: 8px;
+            background-color: hsl(9, 84%, 63%);
+            margin-bottom: 5.7%;
+        }
+        }
     @media only screen and (min-width:700px) and (max-width:1100px){
         .bVisualizza2{
             margin-top: 3%;
@@ -1635,6 +1923,16 @@ height: 100%;
         text-align: center;
     }
   }
+  @media only screen and (min-width:360px) and (max-width:760px){
+    .h1photo{
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 1.2;
+        color: #1d1d1d;
+        padding-top: 5%;
+        text-align: center;
+    }
+    }
 .p-photo{
     font-weight: 300;
     font-size: 18px;
@@ -1655,6 +1953,17 @@ height: 100%;
         margin-top: 1%;
     }
   }
+  @media only screen and (min-width:360px) and (max-width:760px){
+    .p-photo{
+        font-weight: 300;
+        font-size: 18px;
+        color: #1d1d1d;
+        text-align: center;
+        width: 70%;
+        margin-left: 19%;
+        margin-top: 1%;
+    }
+    }
 .a-photo{
     position: relative;
     padding-top: 6.5%;
@@ -1677,6 +1986,16 @@ height: 100%;
         font-size: 11px;
     }
     }
+    @media only screen and (min-width:428px) and (max-width:926px){
+        .a-photo{
+            position: relative;
+            padding-top: 11%;
+            margin-left: 5%;
+            color: #ffffff;
+            display: flex;
+            font-size: 11px;
+        }
+        }
     @media only screen and (min-width:700px) and (max-width:1100px){
         .a-photo{
             position: relative;
@@ -1711,6 +2030,13 @@ height: 100%;
             display: flex;
         }
         }
+        @media only screen and (min-width:810px) and (max-width:1080px){
+            .ca-rd{
+                margin-top: 45%;
+                position: relative;
+                display: flex;
+            }
+            }
                                                       /* <!-- //ca-rd1// --> */
 
 
@@ -1726,6 +2052,42 @@ height: 100%;
         margin-top: 90%;
     }
     }
+    @media only screen and (min-width:360px) and (max-width:760px){
+        .ca-rd1{
+            margin-top: 110%;
+            margin-left: -2%;
+        }
+        }
+        @media only screen and (min-width:375px) and (max-width:812px){
+            .ca-rd1{
+                margin-top: 110%;
+                margin-left: 0%;
+            }
+            }
+        @media only screen and (min-width:384px) and (max-width:854px){
+            .ca-rd1{
+                margin-top: 100%;
+                margin-left: 2%;
+            }
+            }
+        @media only screen and (min-width:412px) and (max-width:915px){
+            .ca-rd1{
+                margin-top: 100%;
+                margin-left: 5%;
+            }
+            }
+            @media only screen and (min-width:810px) and (max-width:1080px){
+                .ca-rd1{
+                    margin-top: 10%;
+                    margin-left: 5%;
+                }
+                }
+                @media only screen and (min-width:800px) and (max-width:1280px){
+                    .ca-rd1{
+                        margin-top: 10%;
+                        margin-left: 5%;
+                    }
+                    }
 
 .icon1 .fa-solid{
     color: #f90;
@@ -1881,7 +2243,30 @@ small{
         margin-left: 5%;
     }
     }
-
+    @media only screen and (min-width:360px) and (max-width:760px){
+        .ca-rd2{
+            margin-top: 11%;
+            margin-left: -2%;
+        }
+        }
+        @media only screen and (min-width:375px) and (max-width:812px){
+            .ca-rd2{
+                margin-top: 11%;
+                margin-left: 0%;
+            }
+            }
+        @media only screen and (min-width:384px) and (max-width:854px){
+            .ca-rd2{
+                margin-top: 6%;
+                margin-left: 2%;
+            }
+            }
+        @media only screen and (min-width:412px) and (max-width:915px){
+            .ca-rd2{
+                margin-top: 10%;
+                margin-left: 5%;
+            }
+            }
   .ca-rd2 h3{
     font-size: 17px;
     color: #333;
@@ -2005,11 +2390,12 @@ small{
 }
 
 
-form{
+.form{
     width: 50%;
     position: relative;
     margin-left: 50%;
 }
+
 
 
                                                    /* <!-- //photo-blog// --> */
@@ -2419,6 +2805,30 @@ form{
     height: 300px;
     position: absolute;
 }
+@media only screen and (min-width:384px) and (max-width:854px){
+    .fphoto .divhp{
+        width: 100%;
+        height: 300px;
+        margin-top: 15%;
+        position: absolute;
+    }
+    }
+    @media only screen and (min-width:375px) and (max-width:812px){
+        .fphoto .divhp{
+            width: 100%;
+            height: 300px;
+            margin-top: 20%;
+            position: absolute;
+        }
+        }
+@media only screen and (min-width:412px) and (max-width:915px){
+    .fphoto .divhp{
+        width: 100%;
+        height: 300px;
+        margin-top: 10%;
+        position: absolute;
+    }
+    }
 
 .fphoto{
     background-color: #707070;
@@ -2448,6 +2858,49 @@ form{
         font-size: 11px;
     }
     }
+    @media only screen and (min-width:375px) and (max-width:812px){
+        .aform-photo{
+            position: relative;
+            margin-top: 83%;
+            margin-left: 5%;
+            color: #ffffff;
+            display: flex;
+            font-size: 11px;
+        }
+        }
+
+    @media only screen and (min-width:384px) and (max-width:854px){
+        .aform-photo{
+            position: relative;
+            margin-top: 80%;
+            margin-left: 5%;
+            color: #ffffff;
+            display: flex;
+            font-size: 11px;
+        }
+        }
+
+
+    @media only screen and (min-width:412px) and (max-width:915px){
+        .aform-photo{
+            position: relative;
+            margin-top: 75%;
+            margin-left: 5%;
+            color: #ffffff;
+            display: flex;
+            font-size: 11px;
+        }
+        }
+        @media only screen and (min-width:428px) and (max-width:926px){
+            .aform-photo{
+                position: relative;
+                margin-top: 73%;
+                margin-left: 5%;
+                color: #ffffff;
+                display: flex;
+                font-size: 11px;
+            }
+            }
     @media only screen and (min-width:700px) and (max-width:1100px){
         .aform-photo{
             position: relative;
@@ -2458,6 +2911,26 @@ form{
             font-size: 11px;
         }
         }
+        @media only screen and (min-width:810px) and (max-width:1080px){
+            .aform-photo{
+                position: relative;
+                margin-top: 38%;
+                margin-left: 5%;
+                color: #ffffff;
+                display: flex;
+                font-size: 11px;
+            }
+            }
+            @media only screen and (min-width:800px) and (max-width:1280px){
+                .aform-photo{
+                    position: relative;
+                    margin-top: 39%;
+                    margin-left: 5%;
+                    color: #ffffff;
+                    display: flex;
+                    font-size: 11px;
+                }
+                }
 .fform{
     margin-top: 25%;
     margin-bottom: 25%;
@@ -2468,6 +2941,24 @@ form{
         margin-bottom: 120%;
     }
     }
+    @media only screen and (min-width:375px) and (max-width:812px){
+        .fform{
+            margin-top: 100%;
+            margin-bottom: 120%;
+        }
+        }
+    @media only screen and (min-width:384px) and (max-width:854px){
+        .fform{
+            margin-top: 95%;
+            margin-bottom: 120%;
+        }
+        }
+        @media only screen and (min-width:428px) and (max-width:926px){
+            .fform{
+                margin-top: 85%;
+                margin-bottom: 120%;
+            }
+            }
     @media only screen and (min-width:700px) and (max-width:1100px){
         .fform{
             margin-top: 50%;
